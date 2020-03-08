@@ -1,0 +1,13 @@
+.pads {
+    padding: 5px;
+}
+
+circle.heat {
+    /* opacity: 0.25; */
+    pointer-events: none;
+    /* mix-blend-mode: screen; */
+}
+
+text.parts {
+    font-weight: bold;
+}

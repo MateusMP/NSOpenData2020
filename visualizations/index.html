@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+
+  <title>NS</title>
+
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+  <!-- Bootstrap core CSS -->
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <!-- Custom styles for this template -->
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+    crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+
+  <div class="container pads">
+    <!-- <button>clear</button> -->
+
+    <div class="row">
+      <div class="col-4">
+        <div>Year:</div>
+        <select id="body-year" class="form-control"></select>
+      </div>
+
+      <div class="col-4">
+        </select>
+        Age Range: <select id="body-agegroup" class="form-control">
+        </select>
+      </div>
+    </div>
+
+    <div class="row pads">
+
+      <div class="col-5">
+        <div id="bodyHeat">
+          <svg width="500" height="600">
+            <image href="person.jpeg" x="0" y="0" height="100%" width="auto" />
+            <g id="body-heat"></g>
+            <g id="label-group"></g>
+          </svg>
+        </div>
+      </div>
+
+      <div class="col-6">
+
+        <div id="heatMap">
+        </div>
+      </div>
+      <!-- <div id="hospitalsMap">
+      </div> -->
+
+    </div>
+
+  </div>
+
+  <script src="bodydata2015.js"></script>
+  <script src="bodydata2016.js"></script>
+  <script src="bodydata2017.js"></script>
+  <script src="buildings.js"></script>
+  <script src="hospitalsData.js"></script>
+  <script src="housessmall.js"></script>
+  <script src="index.js"></script>
+</body>
+
+</html>

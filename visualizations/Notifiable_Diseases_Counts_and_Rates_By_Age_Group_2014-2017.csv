@@ -1,0 +1,1275 @@
+﻿Age Group,Year,Disease,Number of Cases,"Rate per 100,000 population",level,bodypart
+0-4,2014,Acquired Immune Deficiency Syndrome,0,0,3,immuno
+5 to 14,2014,Acquired Immune Deficiency Syndrome,0,0,3,immuno
+15-24,2014,Acquired Immune Deficiency Syndrome,0,0,3,immuno
+25-39,2014,Acquired Immune Deficiency Syndrome,0,0,3,immuno
+40-59,2014,Acquired Immune Deficiency Syndrome,1,0.3,3,immuno
+60+,2014,Acquired Immune Deficiency Syndrome,1,0.4,3,immuno
+All,2014,Acquired Immune Deficiency Syndrome,2,0.2,3,immuno
+5 to 14,2015,Acquired Immune Deficiency Syndrome,0,0,3,immuno
+40-59,2015,Acquired Immune Deficiency Syndrome,1,1.1,3,immuno
+15-24,2015,Acquired Immune Deficiency Syndrome,0,0,3,immuno
+40-59,2016,Acquired Immune Deficiency Syndrome,1,0.4,3,immuno
+All,2016,Acquired Immune Deficiency Syndrome,1,0.1,3,immuno
+25-39,2015,Acquired Immune Deficiency Syndrome,2,1.2,3,immuno
+60+,2016,Acquired Immune Deficiency Syndrome,0,0,3,immuno
+25-39,2016,Acquired Immune Deficiency Syndrome,0,0,3,immuno
+60+,2015,Acquired Immune Deficiency Syndrome,0,0,3,immuno
+All,2015,Acquired Immune Deficiency Syndrome,3,0.3,3,immuno
+15-24,2016,Acquired Immune Deficiency Syndrome,0,0,3,immuno
+0-4,2015,Acquired Immune Deficiency Syndrome,0,0,3,immuno
+0-4,2016,Acquired Immune Deficiency Syndrome,0,0,3,immuno
+5 to 14,2016,Acquired Immune Deficiency Syndrome,0,0,3,immuno
+All,2017,Acquired Immune Deficiency Syndrome,1,0.1,3,immuno
+0-4,2017,Acquired Immune Deficiency Syndrome,0,0,3,immuno
+25-39,2017,Acquired Immune Deficiency Syndrome,1,0.6,3,immuno
+60+,2017,Acquired Immune Deficiency Syndrome,0,0,3,immuno
+40-59,2017,Acquired Immune Deficiency Syndrome,0,0,3,immuno
+15-24,2017,Acquired Immune Deficiency Syndrome,0,0,3,immuno
+5 to 14,2017,Acquired Immune Deficiency Syndrome,0,0,3,immuno
+0-4,2014,Acute Flaccid Paralysis,1,2.5,2,muscle
+5 to 14,2014,Acute Flaccid Paralysis,0,0,2,muscle
+15-24,2014,Acute Flaccid Paralysis,0,0,2,muscle
+25-39,2014,Acute Flaccid Paralysis,0,0,2,muscle
+40-59,2014,Acute Flaccid Paralysis,0,0,2,muscle
+60+,2014,Acute Flaccid Paralysis,0,0,2,muscle
+All,2014,Acute Flaccid Paralysis,1,0.1,2,muscle
+15-24,2015,Acute Flaccid Paralysis,0,0,2,muscle
+All,2016,Acute Flaccid Paralysis,0,0,2,muscle
+0-4,2015,Acute Flaccid Paralysis,0,0,2,muscle
+40-59,2016,Acute Flaccid Paralysis,0,0,2,muscle
+All,2015,Acute Flaccid Paralysis,0,0,2,muscle
+60+,2016,Acute Flaccid Paralysis,0,0,2,muscle
+15-24,2016,Acute Flaccid Paralysis,0,0,2,muscle
+0-4,2016,Acute Flaccid Paralysis,0,0,2,muscle
+5 to 14,2015,Acute Flaccid Paralysis,0,0,2,muscle
+60+,2015,Acute Flaccid Paralysis,0,0,2,muscle
+25-39,2016,Acute Flaccid Paralysis,0,0,2,muscle
+25-39,2015,Acute Flaccid Paralysis,0,0,2,muscle
+40-59,2015,Acute Flaccid Paralysis,0,0,2,muscle
+5 to 14,2016,Acute Flaccid Paralysis,0,0,2,muscle
+5 to 14,2017,Acute Flaccid Paralysis,0,0,2,muscle
+25-39,2017,Acute Flaccid Paralysis,0,0,2,muscle
+0-4,2017,Acute Flaccid Paralysis,0,0,2,muscle
+15-24,2017,Acute Flaccid Paralysis,0,0,2,muscle
+60+,2017,Acute Flaccid Paralysis,0,0,2,muscle
+40-59,2017,Acute Flaccid Paralysis,0,0,2,muscle
+All,2017,Acute Flaccid Paralysis,0,0,2,muscle
+0-4,2014,Amebiasis,0,0,3,intestine
+5 to 14,2014,Amebiasis,0,0,3,intestine
+15-24,2014,Amebiasis,0,0,3,intestine
+25-39,2014,Amebiasis,0,0,3,intestine
+40-59,2014,Amebiasis,2,0.7,3,intestine
+60+,2014,Amebiasis,1,0.4,3,intestine
+All,2014,Amebiasis,3,0.3,3,intestine
+0-4,2014,Botulism,0,0,5,eye
+5 to 14,2014,Botulism,0,0,5,eye
+15-24,2014,Botulism,0,0,5,eye
+25-39,2014,Botulism,0,0,5,eye
+40-59,2014,Botulism,0,0,5,eye
+60+,2014,Botulism,0,0,5,eye
+All,2014,Botulism,0,0,5,eye
+60+,2016,Botulism,0,0,5,eye
+25-39,2015,Botulism,0,0,5,eye
+All,2015,Botulism,0,0,5,eye
+0-4,2016,Botulism,0,0,5,eye
+5 to 14,2016,Botulism,0,0,5,eye
+60+,2015,Botulism,0,0,5,eye
+0-4,2015,Botulism,0,0,5,eye
+25-39,2016,Botulism,0,0,5,eye
+5 to 14,2015,Botulism,0,0,5,eye
+15-24,2015,Botulism,0,0,5,eye
+All,2016,Botulism,0,0,5,eye
+40-59,2015,Botulism,0,0,5,eye
+15-24,2016,Botulism,0,0,5,eye
+40-59,2016,Botulism,0,0,5,eye
+15-24,2017,Botulism,0,0,5,eye
+25-39,2017,Botulism,0,0,5,eye
+All,2017,Botulism,0,0,5,eye
+40-59,2017,Botulism,0,0,5,eye
+60+,2017,Botulism,0,0,5,eye
+0-4,2017,Botulism,0,0,5,eye
+5 to 14,2017,Botulism,0,0,5,eye
+0-4,2014,Campylobacteriosis,10,25.5,2,stomach
+5 to 14,2014,Campylobacteriosis,8,8.9,2,stomach
+15-24,2014,Campylobacteriosis,26,22.2,2,stomach
+25-39,2014,Campylobacteriosis,37,21.5,2,stomach
+40-59,2014,Campylobacteriosis,61,21.7,2,stomach
+60+,2014,Campylobacteriosis,38,15.9,2,stomach
+All,2014,Campylobacteriosis,180,19.2,2,stomach
+60+,2016,Campylobacteriosis,34,13.4,2,stomach
+60+,2015,Campylobacteriosis,33,13.4,2,stomach
+25-39,2015,Campylobacteriosis,26,15.1,2,stomach
+25-39,2016,Campylobacteriosis,43,24.6,2,stomach
+5 to 14,2015,Campylobacteriosis,4,4.5,2,stomach
+0-4,2016,Campylobacteriosis,10,22.8,2,stomach
+40-59,2015,Campylobacteriosis,53,19.1,2,stomach
+15-24,2016,Campylobacteriosis,20,17.6,2,stomach
+15-24,2015,Campylobacteriosis,31,27,2,stomach
+40-59,2016,Campylobacteriosis,54,19.7,2,stomach
+All,2016,Campylobacteriosis,170,17.9,2,stomach
+0-4,2015,Campylobacteriosis,8,18.6,2,stomach
+All,2015,Campylobacteriosis,155,16.4,2,stomach
+5 to 14,2016,Campylobacteriosis,9,10,2,stomach
+15-24,2017,Campylobacteriosis,19,16.8,2,stomach
+40-59,2017,Campylobacteriosis,51,18.9,2,stomach
+0-4,2017,Campylobacteriosis,4,9.3,2,stomach
+All,2017,Campylobacteriosis,185,19.4,2,stomach
+5 to 14,2017,Campylobacteriosis,5,5.5,2,stomach
+25-39,2017,Campylobacteriosis,36,20.2,2,stomach
+60+,2017,Campylobacteriosis,70,26.9,2,stomach
+0-4,2014,Chlamydia,1,2.5,2,sexual
+5 to 14,2014,Chlamydia,14,15.6,2,sexual
+15-24,2014,Chlamydia,"1,805","1,543.60",2,sexual
+25-39,2014,Chlamydia,725,422.2,2,sexual
+40-59,2014,Chlamydia,81,28.7,2,sexual
+60+,2014,Chlamydia,2,0.8,2,sexual
+All,2014,Chlamydia,"2,628",279.9,2,sexual
+0-4,2015,Chlamydia,2,4.6,2,sexual
+60+,2016,Chlamydia,4,1.6,2,sexual
+All,2016,Chlamydia,"2,931",308.7,2,sexual
+5 to 14,2016,Chlamydia,6,6.7,2,sexual
+5 to 14,2015,Chlamydia,16,17.9,2,sexual
+15-24,2015,Chlamydia,"1,948","1,695.80",2,sexual
+15-24,2016,Chlamydia,"1,967","1,734.70",2,sexual
+All,2015,Chlamydia,"2,860",303.3,2,sexual
+0-4,2016,Chlamydia,2,4.6,2,sexual
+40-59,2016,Chlamydia,97,35.4,2,sexual
+40-59,2015,Chlamydia,80,28.8,2,sexual
+25-39,2015,Chlamydia,806,468.3,2,sexual
+60+,2015,Chlamydia,8,3.3,2,sexual
+25-39,2016,Chlamydia,853,488.9,2,sexual
+All,2017,Chlamydia,"2,988",313.3,2,sexual
+40-59,2017,Chlamydia,75,27.8,2,sexual
+0-4,2017,Chlamydia,1,2.3,2,sexual
+60+,2017,Chlamydia,9,3.5,2,sexual
+15-24,2017,Chlamydia,"2,054","1,717.80",2,sexual
+5 to 14,2017,Chlamydia,9,10,2,sexual
+25-39,2017,Chlamydia,840,471.3,2,sexual
+0-4,2014,Clostridium difficile,14,35.6,3,intestine
+5 to 14,2014,Clostridium difficile,15,16.7,3,intestine
+15-24,2014,Clostridium difficile,23,19.7,3,intestine
+25-39,2014,Clostridium difficile,51,29.7,3,intestine
+40-59,2014,Clostridium difficile,127,45.1,3,intestine
+60+,2014,Clostridium difficile,378,157.8,3,intestine
+All,2014,Clostridium difficile,609,64.9,3,intestine
+60+,2015,Clostridium difficile,503,204.3,3,intestine
+0-4,2016,Clostridium difficile,12,27.3,3,intestine
+15-24,2016,Clostridium difficile,35,30.9,3,intestine
+40-59,2016,Clostridium difficile,186,67.9,3,intestine
+15-24,2015,Clostridium difficile,41,35.7,3,intestine
+0-4,2015,Clostridium difficile,19,44.1,3,intestine
+25-39,2015,Clostridium difficile,70,40.7,3,intestine
+All,2016,Clostridium difficile,874,92,3,intestine
+5 to 14,2015,Clostridium difficile,14,15.7,3,intestine
+40-59,2015,Clostridium difficile,165,59.5,3,intestine
+25-39,2016,Clostridium difficile,75,43,3,intestine
+60+,2016,Clostridium difficile,552,217.3,3,intestine
+5 to 14,2016,Clostridium difficile,14,15.6,3,intestine
+All,2015,Clostridium difficile,812,86.1,3,intestine
+All,2017,Clostridium difficile,927,97.2,3,intestine
+0-4,2017,Clostridium difficile,24,56.1,3,intestine
+40-59,2017,Clostridium difficile,226,83.7,3,intestine
+25-39,2017,Clostridium difficile,86,48.2,3,intestine
+15-24,2017,Clostridium difficile,40,35.4,3,intestine
+60+,2017,Clostridium difficile,533,205.2,3,intestine
+5 to 14,2017,Clostridium difficile,18,20,3,intestine
+0-4,2014,Creutzfeldt-Jakob Disease - Classic,0,0,4,brain
+5 to 14,2014,Creutzfeldt-Jakob Disease - Classic,0,0,4,brain
+15-24,2014,Creutzfeldt-Jakob Disease - Classic,0,0,4,brain
+25-39,2014,Creutzfeldt-Jakob Disease - Classic,0,0,4,brain
+40-59,2014,Creutzfeldt-Jakob Disease - Classic,0,0,4,brain
+60+,2014,Creutzfeldt-Jakob Disease - Classic,2,0.8,4,brain
+All,2014,Creutzfeldt-Jakob Disease - Classic,2,0.2,4,brain
+15-24,2015,Creutzfeldt-Jakob Disease - Classic,0,0,4,brain
+0-4,2015,Creutzfeldt-Jakob Disease - Classic,0,0,4,brain
+25-39,2015,Creutzfeldt-Jakob Disease - Classic,0,0,4,brain
+40-59,2015,Creutzfeldt-Jakob Disease - Classic,0,0,4,brain
+0-4,2016,Creutzfeldt-Jakob Disease - Classic,0,0,4,brain
+All,2016,Creutzfeldt-Jakob Disease - Classic,1,0.1,4,brain
+All,2015,Creutzfeldt-Jakob Disease - Classic,0,0,4,brain
+60+,2015,Creutzfeldt-Jakob Disease - Classic,0,0,4,brain
+60+,2016,Creutzfeldt-Jakob Disease - Classic,1,0.4,4,brain
+5 to 14,2016,Creutzfeldt-Jakob Disease - Classic,0,0,4,brain
+15-24,2016,Creutzfeldt-Jakob Disease - Classic,0,0,4,brain
+25-39,2016,Creutzfeldt-Jakob Disease - Classic,0,0,4,brain
+40-59,2016,Creutzfeldt-Jakob Disease - Classic,0,0,4,brain
+5 to 14,2015,Creutzfeldt-Jakob Disease - Classic,0,0,4,brain
+40-59,2017,Creutzfeldt-Jakob Disease - Classic,1,0.4,4,brain
+All,2017,Creutzfeldt-Jakob Disease - Classic,1,0.1,4,brain
+15-24,2017,Creutzfeldt-Jakob Disease - Classic,0,0,4,brain
+60+,2017,Creutzfeldt-Jakob Disease - Classic,0,0,4,brain
+5 to 14,2017,Creutzfeldt-Jakob Disease - Classic,0,0,4,brain
+0-4,2017,Creutzfeldt-Jakob Disease - Classic,0,0,4,brain
+25-39,2017,Creutzfeldt-Jakob Disease - Classic,0,0,4,brain
+0-4,2014,Cryptosporidiosis,2,5.1,1,intestine
+5 to 14,2014,Cryptosporidiosis,4,4.5,1,intestine
+15-24,2014,Cryptosporidiosis,7,6,1,intestine
+25-39,2014,Cryptosporidiosis,9,5.2,1,intestine
+40-59,2014,Cryptosporidiosis,8,2.8,1,intestine
+60+,2014,Cryptosporidiosis,2,0.8,1,intestine
+All,2014,Cryptosporidiosis,32,3.4,1,intestine
+All,2016,Cryptosporidiosis,27,2.8,1,intestine
+60+,2015,Cryptosporidiosis,1,0.4,1,intestine
+60+,2016,Cryptosporidiosis,3,1.2,1,intestine
+15-24,2015,Cryptosporidiosis,5,4.4,1,intestine
+0-4,2016,Cryptosporidiosis,2,4.6,1,intestine
+40-59,2016,Cryptosporidiosis,7,2.6,1,intestine
+25-39,2015,Cryptosporidiosis,7,4.1,1,intestine
+25-39,2016,Cryptosporidiosis,6,3.4,1,intestine
+40-59,2015,Cryptosporidiosis,4,1.4,1,intestine
+All,2015,Cryptosporidiosis,17,1.8,1,intestine
+5 to 14,2016,Cryptosporidiosis,3,3.3,1,intestine
+5 to 14,2015,Cryptosporidiosis,0,0,1,intestine
+15-24,2016,Cryptosporidiosis,6,5.3,1,intestine
+0-4,2015,Cryptosporidiosis,0,0,1,intestine
+15-24,2017,Cryptosporidiosis,12,10.6,1,intestine
+40-59,2017,Cryptosporidiosis,10,3.7,1,intestine
+All,2017,Cryptosporidiosis,41,4.3,1,intestine
+25-39,2017,Cryptosporidiosis,10,5.6,1,intestine
+5 to 14,2017,Cryptosporidiosis,2,2.2,1,intestine
+0-4,2017,Cryptosporidiosis,2,4.7,1,intestine
+60+,2017,Cryptosporidiosis,5,1.9,1,intestine
+0-4,2014,Cyclosporiasis,0,0,1,anus
+5 to 14,2014,Cyclosporiasis,0,0,1,anus
+15-24,2014,Cyclosporiasis,0,0,1,anus
+25-39,2014,Cyclosporiasis,1,0.6,1,anus
+40-59,2014,Cyclosporiasis,0,0,1,anus
+60+,2014,Cyclosporiasis,0,0,1,anus
+All,2014,Cyclosporiasis,1,0.1,1,anus
+60+,2016,Cyclosporiasis,0,0,1,anus
+All,2015,Cyclosporiasis,3,0.3,1,anus
+60+,2015,Cyclosporiasis,1,0.4,1,anus
+0-4,2016,Cyclosporiasis,0,0,1,anus
+15-24,2016,Cyclosporiasis,0,0,1,anus
+0-4,2015,Cyclosporiasis,0,0,1,anus
+40-59,2016,Cyclosporiasis,0,0,1,anus
+25-39,2016,Cyclosporiasis,2,1.1,1,anus
+5 to 14,2016,Cyclosporiasis,0,0,1,anus
+15-24,2015,Cyclosporiasis,0,0,1,anus
+All,2016,Cyclosporiasis,2,0.2,1,anus
+25-39,2015,Cyclosporiasis,0,0,1,anus
+5 to 14,2015,Cyclosporiasis,0,0,1,anus
+40-59,2015,Cyclosporiasis,2,0.7,1,anus
+15-24,2017,Cyclosporiasis,0,0,1,anus
+All,2017,Cyclosporiasis,2,0.2,1,anus
+0-4,2017,Cyclosporiasis,0,0,1,anus
+5 to 14,2017,Cyclosporiasis,0,0,1,anus
+25-39,2017,Cyclosporiasis,1,0.6,1,anus
+60+,2017,Cyclosporiasis,0,0,1,anus
+40-59,2017,Cyclosporiasis,1,0.4,1,anus
+0-4,2014,Encephalitis - Viral,0,0,3,brain
+5 to 14,2014,Encephalitis - Viral,0,0,3,brain
+15-24,2014,Encephalitis - Viral,0,0,3,brain
+25-39,2014,Encephalitis - Viral,0,0,3,brain
+40-59,2014,Encephalitis - Viral,1,0.4,3,brain
+60+,2014,Encephalitis - Viral,0,0,3,brain
+All,2014,Encephalitis - Viral,1,0.1,3,brain
+0-4,2014,Giardiasis,5,12.7,2,intestine
+5 to 14,2014,Giardiasis,6,6.7,2,intestine
+15-24,2014,Giardiasis,9,7.7,2,intestine
+25-39,2014,Giardiasis,22,12.8,2,intestine
+40-59,2014,Giardiasis,31,11,2,intestine
+60+,2014,Giardiasis,17,7.1,2,intestine
+All,2014,Giardiasis,90,9.6,2,intestine
+All,2015,Giardiasis,87,9.2,2,intestine
+60+,2015,Giardiasis,20,8.1,2,intestine
+All,2016,Giardiasis,100,10.5,2,intestine
+15-24,2015,Giardiasis,9,7.8,2,intestine
+0-4,2015,Giardiasis,3,7,2,intestine
+60+,2016,Giardiasis,23,9.1,2,intestine
+25-39,2015,Giardiasis,19,11,2,intestine
+40-59,2016,Giardiasis,36,13.1,2,intestine
+0-4,2016,Giardiasis,2,4.6,2,intestine
+5 to 14,2016,Giardiasis,5,5.6,2,intestine
+25-39,2016,Giardiasis,24,13.8,2,intestine
+5 to 14,2015,Giardiasis,1,1.1,2,intestine
+15-24,2016,Giardiasis,10,8.8,2,intestine
+40-59,2015,Giardiasis,35,12.6,2,intestine
+5 to 14,2017,Giardiasis,8,8.9,2,intestine
+0-4,2017,Giardiasis,3,7,2,intestine
+40-59,2017,Giardiasis,30,11.1,2,intestine
+60+,2017,Giardiasis,26,10,2,intestine
+All,2017,Giardiasis,93,9.7,2,intestine
+15-24,2017,Giardiasis,8,7.1,2,intestine
+25-39,2017,Giardiasis,18,10.1,2,intestine
+0-4,2014,Gonorrhea,0,0,2,sexual
+5 to 14,2014,Gonorrhea,0,0,2,sexual
+15-24,2014,Gonorrhea,61,52.2,2,sexual
+25-39,2014,Gonorrhea,42,24.5,2,sexual
+40-59,2014,Gonorrhea,10,3.5,2,sexual
+60+,2014,Gonorrhea,0,0,2,sexual
+All,2014,Gonorrhea,113,12,2,sexual
+5 to 14,2016,Gonorrhea,1,1.1,2,sexual
+All,2016,Gonorrhea,202,21.3,2,sexual
+40-59,2015,Gonorrhea,20,7.2,2,sexual
+40-59,2016,Gonorrhea,21,7.7,2,sexual
+60+,2015,Gonorrhea,1,0.4,2,sexual
+25-39,2015,Gonorrhea,53,30.8,2,sexual
+5 to 14,2015,Gonorrhea,0,0,2,sexual
+0-4,2016,Gonorrhea,0,0,2,sexual
+All,2015,Gonorrhea,133,14.1,2,sexual
+15-24,2016,Gonorrhea,86,75.8,2,sexual
+0-4,2015,Gonorrhea,0,0,2,sexual
+25-39,2016,Gonorrhea,91,52.2,2,sexual
+60+,2016,Gonorrhea,3,1.2,2,sexual
+15-24,2015,Gonorrhea,59,51.4,2,sexual
+5 to 14,2017,Gonorrhea,0,0,2,sexual
+25-39,2017,Gonorrhea,120,67.3,2,sexual
+60+,2017,Gonorrhea,1,0.4,2,sexual
+15-24,2017,Gonorrhea,80,70.8,2,sexual
+0-4,2017,Gonorrhea,0,0,2,sexual
+40-59,2017,Gonorrhea,32,11.9,2,sexual
+All,2017,Gonorrhea,233,24.4,2,sexual
+0-4,2014,Group A Streptococcal Disease Invasive -> non-Severe,2,5.1,1,throat
+5 to 14,2014,Group A Streptococcal Disease Invasive -> non-Severe,1,1.1,1,throat
+15-24,2014,Group A Streptococcal Disease Invasive -> non-Severe,0,0,1,throat
+25-39,2014,Group A Streptococcal Disease Invasive -> non-Severe,0,0,1,throat
+40-59,2014,Group A Streptococcal Disease Invasive -> non-Severe,3,1.1,1,throat
+60+,2014,Group A Streptococcal Disease Invasive -> non-Severe,8,3.3,1,throat
+All,2014,Group A Streptococcal Disease Invasive -> non-Severe,14,1.5,1,throat
+5 to 14,2016,Group A Streptococcal Disease Invasive -> non-Severe,1,1.1,1,throat
+25-39,2015,Group A Streptococcal Disease Invasive -> non-Severe,4,2.3,1,throat
+15-24,2016,Group A Streptococcal Disease Invasive -> non-Severe,0,0,1,throat
+60+,2016,Group A Streptococcal Disease Invasive -> non-Severe,4,1.6,1,throat
+0-4,2015,Group A Streptococcal Disease Invasive -> non-Severe,0,0,1,throat
+15-24,2015,Group A Streptococcal Disease Invasive -> non-Severe,0,0,1,throat
+5 to 14,2015,Group A Streptococcal Disease Invasive -> non-Severe,2,2.2,1,throat
+All,2015,Group A Streptococcal Disease Invasive -> non-Severe,15,1.6,1,throat
+40-59,2016,Group A Streptococcal Disease Invasive -> non-Severe,4,1.5,1,throat
+All,2016,Group A Streptococcal Disease Invasive -> non-Severe,12,1.3,1,throat
+0-4,2016,Group A Streptococcal Disease Invasive -> non-Severe,0,0,1,throat
+25-39,2016,Group A Streptococcal Disease Invasive -> non-Severe,3,1.7,1,throat
+60+,2015,Group A Streptococcal Disease Invasive -> non-Severe,6,2.4,1,throat
+40-59,2015,Group A Streptococcal Disease Invasive -> non-Severe,3,1.1,1,throat
+25-39,2017,Group A Streptococcal Disease Invasive -> non-Severe,7,3.9,1,throat
+60+,2017,Group A Streptococcal Disease Invasive -> non-Severe,12,4.6,1,throat
+All,2017,Group A Streptococcal Disease Invasive -> non-Severe,30,3.1,1,throat
+15-24,2017,Group A Streptococcal Disease Invasive -> non-Severe,1,0.9,1,throat
+40-59,2017,Group A Streptococcal Disease Invasive -> non-Severe,7,2.6,1,throat
+0-4,2017,Group A Streptococcal Disease Invasive -> non-Severe,1,2.3,1,throat
+5 to 14,2017,Group A Streptococcal Disease Invasive -> non-Severe,2,2.2,1,throat
+0-4,2014,Group A Streptococcal Disease Invasive -> Severe,1,2.5,3,throat
+5 to 14,2014,Group A Streptococcal Disease Invasive -> Severe,0,0,3,throat
+15-24,2014,Group A Streptococcal Disease Invasive -> Severe,1,0.9,3,throat
+25-39,2014,Group A Streptococcal Disease Invasive -> Severe,1,0.6,3,throat
+40-59,2014,Group A Streptococcal Disease Invasive -> Severe,2,0.7,3,throat
+60+,2014,Group A Streptococcal Disease Invasive -> Severe,3,1.3,3,throat
+All,2014,Group A Streptococcal Disease Invasive -> Severe,8,0.9,3,throat
+15-24,2016,Group A Streptococcal Disease Invasive -> Severe,0,0,3,throat
+40-59,2016,Group A Streptococcal Disease Invasive -> Severe,1,0.4,3,throat
+40-59,2015,Group A Streptococcal Disease Invasive -> Severe,5,1.8,3,throat
+60+,2015,Group A Streptococcal Disease Invasive -> Severe,2,0.8,3,throat
+0-4,2015,Group A Streptococcal Disease Invasive -> Severe,0,0,3,throat
+25-39,2016,Group A Streptococcal Disease Invasive -> Severe,3,1.7,3,throat
+60+,2016,Group A Streptococcal Disease Invasive -> Severe,2,0.8,3,throat
+All,2016,Group A Streptococcal Disease Invasive -> Severe,7,0.7,3,throat
+5 to 14,2015,Group A Streptococcal Disease Invasive -> Severe,0,0,3,throat
+5 to 14,2016,Group A Streptococcal Disease Invasive -> Severe,0,0,3,throat
+15-24,2015,Group A Streptococcal Disease Invasive -> Severe,0,0,3,throat
+0-4,2016,Group A Streptococcal Disease Invasive -> Severe,1,2.3,3,throat
+All,2015,Group A Streptococcal Disease Invasive -> Severe,10,1.1,3,throat
+25-39,2015,Group A Streptococcal Disease Invasive -> Severe,3,1.7,3,throat
+40-59,2017,Group A Streptococcal Disease Invasive -> Severe,3,1.1,3,throat
+5 to 14,2017,Group A Streptococcal Disease Invasive -> Severe,0,0,3,throat
+All,2017,Group A Streptococcal Disease Invasive -> Severe,16,1.7,3,throat
+60+,2017,Group A Streptococcal Disease Invasive -> Severe,7,2.7,3,throat
+0-4,2017,Group A Streptococcal Disease Invasive -> Severe,1,2.3,3,throat
+15-24,2017,Group A Streptococcal Disease Invasive -> Severe,1,0.9,3,throat
+25-39,2017,Group A Streptococcal Disease Invasive -> Severe,4,2.2,3,throat
+0-4,2014,Group B Streptococcal Disease of the Newborn,1,2.5,3,throat
+5 to 14,2014,Group B Streptococcal Disease of the Newborn,0,0,3,throat
+15-24,2014,Group B Streptococcal Disease of the Newborn,0,0,3,throat
+25-39,2014,Group B Streptococcal Disease of the Newborn,0,0,3,throat
+40-59,2014,Group B Streptococcal Disease of the Newborn,0,0,3,throat
+60+,2014,Group B Streptococcal Disease of the Newborn,0,0,3,throat
+All,2014,Group B Streptococcal Disease of the Newborn,1,0.1,3,throat
+40-59,2016,Group B Streptococcal Disease of the Newborn,0,0,3,throat
+5 to 14,2016,Group B Streptococcal Disease of the Newborn,0,0,3,throat
+40-59,2015,Group B Streptococcal Disease of the Newborn,0,0,3,throat
+5 to 14,2015,Group B Streptococcal Disease of the Newborn,0,0,3,throat
+15-24,2016,Group B Streptococcal Disease of the Newborn,0,0,3,throat
+60+,2015,Group B Streptococcal Disease of the Newborn,0,0,3,throat
+25-39,2015,Group B Streptococcal Disease of the Newborn,0,0,3,throat
+60+,2016,Group B Streptococcal Disease of the Newborn,0,0,3,throat
+All,2016,Group B Streptococcal Disease of the Newborn,3,0.3,3,throat
+0-4,2016,Group B Streptococcal Disease of the Newborn,3,6.8,3,throat
+15-24,2015,Group B Streptococcal Disease of the Newborn,0,0,3,throat
+All,2015,Group B Streptococcal Disease of the Newborn,3,0.3,3,throat
+25-39,2016,Group B Streptococcal Disease of the Newborn,0,0,3,throat
+0-4,2015,Group B Streptococcal Disease of the Newborn,3,7,3,throat
+25-39,2017,Group B Streptococcal Disease of the Newborn,0,0,3,throat
+0-4,2017,Group B Streptococcal Disease of the Newborn,3,7,3,throat
+5 to 14,2017,Group B Streptococcal Disease of the Newborn,0,0,3,throat
+40-59,2017,Group B Streptococcal Disease of the Newborn,0,0,3,throat
+All,2017,Group B Streptococcal Disease of the Newborn,3,0.3,3,throat
+60+,2017,Group B Streptococcal Disease of the Newborn,0,0,3,throat
+15-24,2017,Group B Streptococcal Disease of the Newborn,0,0,3,throat
+0-4,2014,Haemophilus influenzae Type b Invasive Disease,0,0,4,lung
+5 to 14,2014,Haemophilus influenzae Type b Invasive Disease,0,0,4,lung
+15-24,2014,Haemophilus influenzae Type b Invasive Disease,0,0,4,lung
+25-39,2014,Haemophilus influenzae Type b Invasive Disease,0,0,4,lung
+40-59,2014,Haemophilus influenzae Type b Invasive Disease,0,0,4,lung
+60+,2014,Haemophilus influenzae Type b Invasive Disease,0,0,4,lung
+All,2014,Haemophilus influenzae Type b Invasive Disease,0,0,4,lung
+15-24,2016,Haemophilus influenzae Type b Invasive Disease,0,0,4,lung
+40-59,2016,Haemophilus influenzae Type b Invasive Disease,0,0,4,lung
+60+,2015,Haemophilus influenzae Type b Invasive Disease,0,0,4,lung
+5 to 14,2016,Haemophilus influenzae Type b Invasive Disease,0,0,4,lung
+5 to 14,2015,Haemophilus influenzae Type b Invasive Disease,0,0,4,lung
+All,2016,Haemophilus influenzae Type b Invasive Disease,0,0,4,lung
+All,2015,Haemophilus influenzae Type b Invasive Disease,0,0,4,lung
+25-39,2015,Haemophilus influenzae Type b Invasive Disease,0,0,4,lung
+25-39,2016,Haemophilus influenzae Type b Invasive Disease,0,0,4,lung
+40-59,2015,Haemophilus influenzae Type b Invasive Disease,0,0,4,lung
+60+,2016,Haemophilus influenzae Type b Invasive Disease,0,0,4,lung
+0-4,2015,Haemophilus influenzae Type b Invasive Disease,0,0,4,lung
+0-4,2016,Haemophilus influenzae Type b Invasive Disease,0,0,4,lung
+15-24,2015,Haemophilus influenzae Type b Invasive Disease,0,0,4,lung
+15-24,2017,Haemophilus influenzae Type b Invasive Disease,1,0.9,4,lung
+All,2017,Haemophilus influenzae Type b Invasive Disease,1,0.1,4,lung
+25-39,2017,Haemophilus influenzae Type b Invasive Disease,0,0,4,lung
+60+,2017,Haemophilus influenzae Type b Invasive Disease,0,0,4,lung
+5 to 14,2017,Haemophilus influenzae Type b Invasive Disease,0,0,4,lung
+40-59,2017,Haemophilus influenzae Type b Invasive Disease,0,0,4,lung
+0-4,2017,Haemophilus influenzae Type b Invasive Disease,0,0,4,lung
+0-4,2014,Hepatitis A,0,0,4,liver
+5 to 14,2014,Hepatitis A,0,0,4,liver
+15-24,2014,Hepatitis A,3,2.6,4,liver
+25-39,2014,Hepatitis A,0,0,4,liver
+40-59,2014,Hepatitis A,0,0,4,liver
+60+,2014,Hepatitis A,0,0,4,liver
+All,2014,Hepatitis A,3,0.3,4,liver
+25-39,2016,Hepatitis A,2,1.1,4,liver
+40-59,2015,Hepatitis A,0,0,4,liver
+25-39,2015,Hepatitis A,1,0.6,4,liver
+0-4,2015,Hepatitis A,0,0,4,liver
+5 to 14,2015,Hepatitis A,0,0,4,liver
+0-4,2016,Hepatitis A,3,6.8,4,liver
+40-59,2016,Hepatitis A,3,1.1,4,liver
+15-24,2016,Hepatitis A,0,0,4,liver
+15-24,2015,Hepatitis A,0,0,4,liver
+All,2015,Hepatitis A,1,0.1,4,liver
+60+,2015,Hepatitis A,0,0,4,liver
+All,2016,Hepatitis A,11,1.2,4,liver
+60+,2016,Hepatitis A,1,0.4,4,liver
+5 to 14,2016,Hepatitis A,2,2.2,4,liver
+15-24,2017,Hepatitis A,0,0,4,liver
+0-4,2017,Hepatitis A,0,0,4,liver
+60+,2017,Hepatitis A,0,0,4,liver
+40-59,2017,Hepatitis A,1,0.4,4,liver
+All,2017,Hepatitis A,2,0.2,4,liver
+25-39,2017,Hepatitis A,1,0.6,4,liver
+5 to 14,2017,Hepatitis A,0,0,4,liver
+0-4,2014,Hepatitis B - Acute,0,0,4,liver
+5 to 14,2014,Hepatitis B - Acute,0,0,4,liver
+15-24,2014,Hepatitis B - Acute,0,0,4,liver
+25-39,2014,Hepatitis B - Acute,1,0.6,4,liver
+40-59,2014,Hepatitis B - Acute,2,0.7,4,liver
+60+,2014,Hepatitis B - Acute,1,0.4,4,liver
+All,2014,Hepatitis B - Acute,4,0.4,4,liver
+60+,2015,Hepatitis B - Acute,2,0.8,4,liver
+15-24,2016,Hepatitis B - Acute,1,0.9,4,liver
+40-59,2016,Hepatitis B - Acute,4,1.5,4,liver
+25-39,2015,Hepatitis B - Acute,2,1.2,4,liver
+25-39,2016,Hepatitis B - Acute,3,1.7,4,liver
+5 to 14,2015,Hepatitis B - Acute,0,0,4,liver
+15-24,2015,Hepatitis B - Acute,1,0.9,4,liver
+40-59,2015,Hepatitis B - Acute,4,1.4,4,liver
+0-4,2015,Hepatitis B - Acute,0,0,4,liver
+60+,2016,Hepatitis B - Acute,2,0.8,4,liver
+0-4,2016,Hepatitis B - Acute,0,0,4,liver
+All,2016,Hepatitis B - Acute,10,1.1,4,liver
+All,2015,Hepatitis B - Acute,9,1,4,liver
+5 to 14,2016,Hepatitis B - Acute,0,0,4,liver
+All,2017,Hepatitis B - Acute,6,0.6,4,liver
+40-59,2017,Hepatitis B - Acute,1,0.4,4,liver
+25-39,2017,Hepatitis B - Acute,2,1.1,4,liver
+0-4,2017,Hepatitis B - Acute,0,0,4,liver
+5 to 14,2017,Hepatitis B - Acute,0,0,4,liver
+60+,2017,Hepatitis B - Acute,1,0.4,4,liver
+15-24,2017,Hepatitis B - Acute,2,1.8,4,liver
+0-4,2014,Hepatitis B - Chronic,0,0,4,liver
+5 to 14,2014,Hepatitis B - Chronic,1,1.1,3,liver
+15-24,2014,Hepatitis B - Chronic,3,2.6,3,liver
+25-39,2014,Hepatitis B - Chronic,10,5.8,3,liver
+40-59,2014,Hepatitis B - Chronic,3,1.1,3,liver
+60+,2014,Hepatitis B - Chronic,3,1.3,3,liver
+All,2014,Hepatitis B - Chronic,20,2.1,3,liver
+0-4,2015,Hepatitis B - Chronic,0,0,3,liver
+40-59,2016,Hepatitis B - Chronic,1,0.4,3,liver
+25-39,2016,Hepatitis B - Chronic,9,5.2,3,liver
+15-24,2015,Hepatitis B - Chronic,0,0,3,liver
+40-59,2015,Hepatitis B - Chronic,3,1.1,3,liver
+5 to 14,2016,Hepatitis B - Chronic,1,1.1,3,liver
+All,2016,Hepatitis B - Chronic,13,1.4,3,liver
+All,2015,Hepatitis B - Chronic,9,1,3,liver
+60+,2015,Hepatitis B - Chronic,1,0.4,3,liver
+25-39,2015,Hepatitis B - Chronic,5,2.9,3,liver
+0-4,2016,Hepatitis B - Chronic,0,0,3,liver
+60+,2016,Hepatitis B - Chronic,2,0.8,3,liver
+5 to 14,2015,Hepatitis B - Chronic,0,0,3,liver
+15-24,2016,Hepatitis B - Chronic,0,0,3,liver
+25-39,2017,Hepatitis B - Chronic,11,6.2,3,liver
+40-59,2017,Hepatitis B - Chronic,4,1.5,3,liver
+0-4,2017,Hepatitis B - Chronic,0,0,3,liver
+5 to 14,2017,Hepatitis B - Chronic,0,0,3,liver
+15-24,2017,Hepatitis B - Chronic,1,0.9,3,liver
+60+,2017,Hepatitis B - Chronic,2,0.8,3,liver
+All,2017,Hepatitis B - Chronic,18,1.9,3,liver
+0-4,2014,Hepatitis C,2,5.1,3,liver
+5 to 14,2014,Hepatitis C,0,0,3,liver
+15-24,2014,Hepatitis C,78,66.7,3,liver
+25-39,2014,Hepatitis C,132,76.9,3,liver
+40-59,2014,Hepatitis C,91,32.3,3,liver
+60+,2014,Hepatitis C,20,8.4,3,liver
+All,2014,Hepatitis C,323,34.4,3,liver
+5 to 14,2015,Hepatitis C,0,0,3,liver
+0-4,2015,Hepatitis C,0,0,3,liver
+25-39,2016,Hepatitis C,144,82.5,3,liver
+All,2015,Hepatitis C,357,37.9,3,liver
+40-59,2015,Hepatitis C,103,37.1,3,liver
+All,2016,Hepatitis C,299,31.5,3,liver
+5 to 14,2016,Hepatitis C,0,0,3,liver
+40-59,2016,Hepatitis C,79,28.8,3,liver
+60+,2016,Hepatitis C,25,9.8,3,liver
+15-24,2016,Hepatitis C,50,44.1,3,liver
+60+,2015,Hepatitis C,31,12.6,3,liver
+15-24,2015,Hepatitis C,76,66.2,3,liver
+0-4,2016,Hepatitis C,1,2.3,3,liver
+25-39,2015,Hepatitis C,147,85.4,3,liver
+40-59,2017,Hepatitis C,80,29.6,3,liver
+0-4,2017,Hepatitis C,1,2.3,3,liver
+60+,2017,Hepatitis C,34,13.1,3,liver
+All,2017,Hepatitis C,295,30.9,3,liver
+5 to 14,2017,Hepatitis C,0,0,3,liver
+15-24,2017,Hepatitis C,38,33.6,3,liver
+25-39,2017,Hepatitis C,142,79.7,3,liver
+0-4,2014,Hepatitis E,0,0,2,liver
+5 to 14,2014,Hepatitis E,0,0,2,liver
+15-24,2014,Hepatitis E,0,0,2,liver
+25-39,2014,Hepatitis E,0,0,2,liver
+40-59,2014,Hepatitis E,0,0,2,liver
+60+,2014,Hepatitis E,0,0,2,liver
+All,2014,Hepatitis E,0,0,2,liver
+0-4,2014,Human Immunodeficiency Virus,0,0,3,immuno
+5 to 14,2014,Human Immunodeficiency Virus,0,0,3,immuno
+15-24,2014,Human Immunodeficiency Virus,3,2.6,3,immuno
+25-39,2014,Human Immunodeficiency Virus,2,1.2,3,immuno
+40-59,2014,Human Immunodeficiency Virus,5,1.8,3,immuno
+60+,2014,Human Immunodeficiency Virus,0,0,3,immuno
+All,2014,Human Immunodeficiency Virus,10,1.1,3,immuno
+0-4,2016,Human Immunodeficiency Virus,0,0,3,immuno
+All,2016,Human Immunodeficiency Virus,16,1.7,3,immuno
+5 to 14,2015,Human Immunodeficiency Virus,0,0,3,immuno
+5 to 14,2016,Human Immunodeficiency Virus,0,0,3,immuno
+15-24,2015,Human Immunodeficiency Virus,4,3.5,3,immuno
+60+,2016,Human Immunodeficiency Virus,1,0.4,3,immuno
+60+,2015,Human Immunodeficiency Virus,0,0,3,immuno
+25-39,2016,Human Immunodeficiency Virus,4,2.3,3,immuno
+40-59,2016,Human Immunodeficiency Virus,6,2.2,3,immuno
+25-39,2015,Human Immunodeficiency Virus,10,5.8,3,immuno
+15-24,2016,Human Immunodeficiency Virus,5,4.4,3,immuno
+40-59,2015,Human Immunodeficiency Virus,3,1.1,3,immuno
+All,2015,Human Immunodeficiency Virus,17,1.8,3,immuno
+0-4,2015,Human Immunodeficiency Virus,0,0,3,immuno
+60+,2017,Human Immunodeficiency Virus,1,0.4,3,immuno
+5 to 14,2017,Human Immunodeficiency Virus,0,0,3,immuno
+40-59,2017,Human Immunodeficiency Virus,6,2.2,3,immuno
+25-39,2017,Human Immunodeficiency Virus,5,2.8,3,immuno
+All,2017,Human Immunodeficiency Virus,15,1.6,3,immuno
+15-24,2017,Human Immunodeficiency Virus,1,0.9,3,immuno
+0-4,2017,Human Immunodeficiency Virus,0,0,3,immuno
+0-4,2014,Influenza,26,66.2,2,throat
+5 to 14,2014,Influenza,11,12.3,2,throat
+15-24,2014,Influenza,5,4.3,2,throat
+25-39,2014,Influenza,18,10.5,2,throat
+40-59,2014,Influenza,49,17.4,2,throat
+60+,2014,Influenza,163,68.1,2,throat
+All,2014,Influenza,272,29,2,throat
+0-4,2016,Influenza,29,66.1,2,throat
+25-39,2016,Influenza,20,11.5,2,throat
+0-4,2015,Influenza,26,60.3,2,throat
+5 to 14,2015,Influenza,25,28,2,throat
+40-59,2016,Influenza,68,32.2,2,throat
+60+,2016,Influenza,179,70.5,2,throat
+25-39,2015,Influenza,17,9.9,2,throat
+60+,2015,Influenza,574,233.2,2,throat
+15-24,2016,Influenza,10,8.8,2,throat
+40-59,2015,Influenza,66,23.8,2,throat
+5 to 14,2016,Influenza,19,21.2,2,throat
+All,2016,Influenza,325,34.2,2,throat
+15-24,2015,Influenza,9,7.8,2,throat
+All,2015,Influenza,718,76.1,2,throat
+0-4,2014,Legionellosis,0,0,3,lung
+5 to 14,2014,Legionellosis,0,0,3,lung
+15-24,2014,Legionellosis,0,0,3,lung
+25-39,2014,Legionellosis,0,0,3,lung
+40-59,2014,Legionellosis,3,1.1,3,lung
+60+,2014,Legionellosis,0,0,3,lung
+All,2014,Legionellosis,3,0.3,3,lung
+60+,2015,Legionellosis,5,2,3,lung
+15-24,2015,Legionellosis,0,0,3,lung
+15-24,2016,Legionellosis,0,0,3,lung
+0-4,2015,Legionellosis,0,0,3,lung
+All,2015,Legionellosis,7,0.7,3,lung
+40-59,2015,Legionellosis,2,0.7,3,lung
+5 to 14,2015,Legionellosis,0,0,3,lung
+5 to 14,2016,Legionellosis,0,0,3,lung
+0-4,2016,Legionellosis,0,0,3,lung
+60+,2016,Legionellosis,1,0.4,3,lung
+40-59,2016,Legionellosis,0,0,3,lung
+25-39,2015,Legionellosis,0,0,3,lung
+25-39,2016,Legionellosis,0,0,3,lung
+All,2016,Legionellosis,1,0.1,3,lung
+60+,2017,Legionellosis,6,2.3,3,lung
+5 to 14,2017,Legionellosis,0,0,3,lung
+0-4,2017,Legionellosis,0,0,3,lung
+15-24,2017,Legionellosis,0,0,3,lung
+25-39,2017,Legionellosis,1,0.6,3,lung
+40-59,2017,Legionellosis,2,0.7,3,lung
+All,2017,Legionellosis,9,0.9,3,lung
+0-4,2014,Listeriosis - Invasive,1,2.5,3,stomach
+5 to 14,2014,Listeriosis - Invasive,0,0,3,stomach
+15-24,2014,Listeriosis - Invasive,0,0,3,stomach
+25-39,2014,Listeriosis - Invasive,0,0,3,stomach
+40-59,2014,Listeriosis - Invasive,0,0,3,stomach
+60+,2014,Listeriosis - Invasive,4,1.7,3,stomach
+All,2014,Listeriosis - Invasive,5,0.5,3,stomach
+5 to 14,2015,Listeriosis - Invasive,0,0,3,stomach
+All,2015,Listeriosis - Invasive,8,0.8,3,stomach
+40-59,2015,Listeriosis - Invasive,2,0.7,3,stomach
+0-4,2015,Listeriosis - Invasive,0,0,3,stomach
+All,2016,Listeriosis - Invasive,4,0.4,3,stomach
+40-59,2016,Listeriosis - Invasive,2,0.7,3,stomach
+25-39,2016,Listeriosis - Invasive,0,0,3,stomach
+60+,2016,Listeriosis - Invasive,2,0.8,3,stomach
+0-4,2016,Listeriosis - Invasive,0,0,3,stomach
+15-24,2016,Listeriosis - Invasive,0,0,3,stomach
+15-24,2015,Listeriosis - Invasive,0,0,3,stomach
+5 to 14,2016,Listeriosis - Invasive,0,0,3,stomach
+25-39,2015,Listeriosis - Invasive,1,0.6,3,stomach
+60+,2015,Listeriosis - Invasive,5,2,3,stomach
+25-39,2017,Listeriosis - Invasive,0,0,3,stomach
+40-59,2017,Listeriosis - Invasive,0,0,3,stomach
+15-24,2017,Listeriosis - Invasive,0,0,3,stomach
+5 to 14,2017,Listeriosis - Invasive,0,0,3,stomach
+60+,2017,Listeriosis - Invasive,4,1.5,3,stomach
+0-4,2017,Listeriosis - Invasive,0,0,3,stomach
+All,2017,Listeriosis - Invasive,4,0.4,3,stomach
+0-4,2014,Lyme Disease - Confirmed,0,0,4,brain
+5 to 14,2014,Lyme Disease - Confirmed,7,7.8,4,brain
+15-24,2014,Lyme Disease - Confirmed,2,1.7,4,brain
+25-39,2014,Lyme Disease - Confirmed,8,4.7,4,brain
+40-59,2014,Lyme Disease - Confirmed,20,7.1,4,brain
+60+,2014,Lyme Disease - Confirmed,31,12.9,4,brain
+All,2014,Lyme Disease - Confirmed,68,7.2,4,brain
+0-4,2015,Lyme Disease - Confirmed,4,9.3,4,brain
+15-24,2015,Lyme Disease - Confirmed,12,10.4,4,brain
+0-4,2016,Lyme Disease - Confirmed,5,11.4,4,brain
+25-39,2016,Lyme Disease - Confirmed,19,10.9,4,brain
+5 to 14,2016,Lyme Disease - Confirmed,24,26.7,4,brain
+15-24,2016,Lyme Disease - Confirmed,8,7.1,4,brain
+60+,2016,Lyme Disease - Confirmed,62,24.4,4,brain
+All,2016,Lyme Disease - Confirmed,165,17.4,4,brain
+60+,2015,Lyme Disease - Confirmed,51,20.7,4,brain
+5 to 14,2015,Lyme Disease - Confirmed,12,13.4,4,brain
+All,2015,Lyme Disease - Confirmed,124,13.1,4,brain
+40-59,2015,Lyme Disease - Confirmed,34,12.3,4,brain
+40-59,2016,Lyme Disease - Confirmed,47,17.2,4,brain
+25-39,2015,Lyme Disease - Confirmed,11,6.4,4,brain
+0-4,2017,Lyme Disease - Confirmed,8,18.7,4,brain
+25-39,2017,Lyme Disease - Confirmed,27,15.1,4,brain
+60+,2017,Lyme Disease - Confirmed,107,41.2,4,brain
+All,2017,Lyme Disease - Confirmed,307,32.2,4,brain
+15-24,2017,Lyme Disease - Confirmed,15,13.3,4,brain
+40-59,2017,Lyme Disease - Confirmed,104,38.5,4,brain
+5 to 14,2017,Lyme Disease - Confirmed,46,51,4,brain
+0-4,2014,Lyme Disease - Probable,2,5.1,3,brain
+5 to 14,2014,Lyme Disease - Probable,5,5.6,3,brain
+15-24,2014,Lyme Disease - Probable,3,2.6,3,brain
+25-39,2014,Lyme Disease - Probable,7,4.1,3,brain
+40-59,2014,Lyme Disease - Probable,11,3.9,3,brain
+60+,2014,Lyme Disease - Probable,19,7.9,3,brain
+All,2014,Lyme Disease - Probable,47,5,3,brain
+0-4,2015,Lyme Disease - Probable,5,11.6,3,brain
+25-39,2015,Lyme Disease - Probable,15,8.7,3,brain
+25-39,2016,Lyme Disease - Probable,18,10.3,3,brain
+5 to 14,2016,Lyme Disease - Probable,15,16.7,3,brain
+40-59,2016,Lyme Disease - Probable,43,15.7,3,brain
+15-24,2016,Lyme Disease - Probable,12,10.6,3,brain
+5 to 14,2015,Lyme Disease - Probable,11,12.3,3,brain
+All,2016,Lyme Disease - Probable,161,17,3,brain
+60+,2016,Lyme Disease - Probable,69,27.2,3,brain
+15-24,2015,Lyme Disease - Probable,9,7.8,3,brain
+40-59,2015,Lyme Disease - Probable,35,12.6,3,brain
+All,2015,Lyme Disease - Probable,130,13.8,3,brain
+60+,2015,Lyme Disease - Probable,54,21.9,3,brain
+0-4,2016,Lyme Disease - Probable,4,9.1,3,brain
+15-24,2017,Lyme Disease - Probable,9,8,3,brain
+60+,2017,Lyme Disease - Probable,132,50.8,3,brain
+25-39,2017,Lyme Disease - Probable,22,12.3,3,brain
+40-59,2017,Lyme Disease - Probable,86,31.9,3,brain
+0-4,2017,Lyme Disease - Probable,7,16.4,3,brain
+All,2017,Lyme Disease - Probable,279,29.2,3,brain
+5 to 14,2017,Lyme Disease - Probable,19,21.1,3,brain
+0-4,2014,Lymphogranuloma Venereum,0,0,2,skin
+5 to 14,2014,Lymphogranuloma Venereum,0,0,2,skin
+15-24,2014,Lymphogranuloma Venereum,0,0,2,skin
+25-39,2014,Lymphogranuloma Venereum,0,0,2,skin
+40-59,2014,Lymphogranuloma Venereum,0,0,2,skin
+60+,2014,Lymphogranuloma Venereum,0,0,2,skin
+All,2014,Lymphogranuloma Venereum,0,0,2,skin
+0-4,2014,Malaria,0,0,3,eye
+5 to 14,2014,Malaria,0,0,3,eye
+15-24,2014,Malaria,0,0,3,eye
+25-39,2014,Malaria,3,1.7,3,eye
+40-59,2014,Malaria,0,0,3,eye
+60+,2014,Malaria,0,0,3,eye
+All,2014,Malaria,3,0.3,3,eye
+0-4,2016,Malaria,1,2.3,3,eye
+15-24,2016,Malaria,0,0,3,eye
+5 to 14,2016,Malaria,0,0,3,eye
+40-59,2015,Malaria,1,0.4,3,eye
+All,2015,Malaria,4,0.4,3,eye
+5 to 14,2015,Malaria,0,0,3,eye
+0-4,2015,Malaria,0,0,3,eye
+40-59,2016,Malaria,4,1.5,3,eye
+15-24,2015,Malaria,1,0.9,3,eye
+25-39,2016,Malaria,1,0.6,3,eye
+25-39,2015,Malaria,2,1.2,3,eye
+60+,2016,Malaria,0,0,3,eye
+60+,2015,Malaria,0,0,3,eye
+All,2016,Malaria,6,0.6,3,eye
+5 to 14,2017,Malaria,0,0,3,eye
+15-24,2017,Malaria,1,0.9,3,eye
+25-39,2017,Malaria,1,0.6,3,eye
+All,2017,Malaria,3,0.3,3,eye
+40-59,2017,Malaria,1,0.4,3,eye
+60+,2017,Malaria,0,0,3,eye
+0-4,2017,Malaria,0,0,3,eye
+25-39,2017,Measles,14,7.9,3,forehead
+15-24,2017,Measles,4,3.5,3,forehead
+All,2017,Measles,29,3,3,forehead
+0-4,2017,Measles,0,0,3,forehead
+40-59,2017,Measles,6,2.2,3,forehead
+5 to 14,2017,Measles,5,5.5,3,forehead
+60+,2017,Measles,0,0,3,forehead
+0-4,2014,Meningitis - Bacterial,1,2.5,3,brain
+5 to 14,2014,Meningitis - Bacterial,0,0,3,brain
+15-24,2014,Meningitis - Bacterial,0,0,3,brain
+25-39,2014,Meningitis - Bacterial,1,0.6,3,brain
+40-59,2014,Meningitis - Bacterial,0,0,3,brain
+60+,2014,Meningitis - Bacterial,0,0,3,brain
+All,2014,Meningitis - Bacterial,2,0.2,3,brain
+0-4,2015,Meningitis - Bacterial,0,0,3,brain
+15-24,2015,Meningitis - Bacterial,0,0,3,brain
+5 to 14,2015,Meningitis - Bacterial,0,0,3,brain
+0-4,2016,Meningitis - Bacterial,0,0,3,brain
+40-59,2016,Meningitis - Bacterial,0,0,3,brain
+60+,2016,Meningitis - Bacterial,0,0,3,brain
+All,2016,Meningitis - Bacterial,0,0,3,brain
+All,2015,Meningitis - Bacterial,0,0,3,brain
+25-39,2016,Meningitis - Bacterial,0,0,3,brain
+25-39,2015,Meningitis - Bacterial,0,0,3,brain
+60+,2015,Meningitis - Bacterial,0,0,3,brain
+5 to 14,2016,Meningitis - Bacterial,0,0,3,brain
+40-59,2015,Meningitis - Bacterial,0,0,3,brain
+15-24,2016,Meningitis - Bacterial,0,0,3,brain
+60+,2017,Meningitis - Bacterial,0,0,3,brain
+25-39,2017,Meningitis - Bacterial,1,0.6,3,brain
+All,2017,Meningitis - Bacterial,1,0.1,3,brain
+40-59,2017,Meningitis - Bacterial,0,0,3,brain
+5 to 14,2017,Meningitis - Bacterial,0,0,3,brain
+15-24,2017,Meningitis - Bacterial,0,0,3,brain
+0-4,2017,Meningitis - Bacterial,0,0,3,brain
+0-4,2014,Meningitis - Viral,6,15.3,3,brain
+5 to 14,2014,Meningitis - Viral,1,1.1,3,brain
+15-24,2014,Meningitis - Viral,1,0.9,3,brain
+25-39,2014,Meningitis - Viral,4,2.3,3,brain
+40-59,2014,Meningitis - Viral,3,1.1,3,brain
+60+,2014,Meningitis - Viral,0,0,3,brain
+All,2014,Meningitis - Viral,15,1.6,3,brain
+0-4,2014,Meningococcal Disease Invasive,1,2.5,4,brain
+5 to 14,2014,Meningococcal Disease Invasive,0,0,4,brain
+15-24,2014,Meningococcal Disease Invasive,1,0.9,4,brain
+25-39,2014,Meningococcal Disease Invasive,0,0,4,brain
+40-59,2014,Meningococcal Disease Invasive,1,0.4,4,brain
+60+,2014,Meningococcal Disease Invasive,0,0,4,brain
+All,2014,Meningococcal Disease Invasive,3,0.3,4,brain
+0-4,2016,Meningococcal Disease Invasive,0,0,4,brain
+All,2015,Meningococcal Disease Invasive,7,0.7,4,brain
+60+,2016,Meningococcal Disease Invasive,1,0.4,4,brain
+0-4,2015,Meningococcal Disease Invasive,0,0,4,brain
+40-59,2015,Meningococcal Disease Invasive,0,0,4,brain
+5 to 14,2015,Meningococcal Disease Invasive,1,1.1,4,brain
+25-39,2016,Meningococcal Disease Invasive,0,0,4,brain
+15-24,2015,Meningococcal Disease Invasive,5,4.4,4,brain
+40-59,2016,Meningococcal Disease Invasive,1,0.4,4,brain
+60+,2015,Meningococcal Disease Invasive,1,0.4,4,brain
+25-39,2015,Meningococcal Disease Invasive,0,0,4,brain
+15-24,2016,Meningococcal Disease Invasive,2,1.8,4,brain
+5 to 14,2016,Meningococcal Disease Invasive,0,0,4,brain
+All,2016,Meningococcal Disease Invasive,4,0.4,4,brain
+40-59,2017,Meningococcal Disease Invasive,2,0.7,4,brain
+5 to 14,2017,Meningococcal Disease Invasive,0,0,4,brain
+60+,2017,Meningococcal Disease Invasive,1,0.4,4,brain
+15-24,2017,Meningococcal Disease Invasive,3,2.7,4,brain
+0-4,2017,Meningococcal Disease Invasive,0,0,4,brain
+All,2017,Meningococcal Disease Invasive,6,0.6,4,brain
+25-39,2017,Meningococcal Disease Invasive,0,0,4,brain
+0-4,2014,Methicillin Resistant Staphylococcus Aureus,18,45.8,3,skin
+5 to 14,2014,Methicillin Resistant Staphylococcus Aureus,13,14.5,3,skin
+15-24,2014,Methicillin Resistant Staphylococcus Aureus,30,25.7,3,skin
+25-39,2014,Methicillin Resistant Staphylococcus Aureus,56,32.6,3,skin
+40-59,2014,Methicillin Resistant Staphylococcus Aureus,117,41.5,3,skin
+60+,2014,Methicillin Resistant Staphylococcus Aureus,409,170.8,3,skin
+All,2014,Methicillin Resistant Staphylococcus Aureus,644,68.6,3,skin
+15-24,2016,Methicillin Resistant Staphylococcus Aureus,32,28.2,3,skin
+All,2016,Methicillin Resistant Staphylococcus Aureus,570,60,3,skin
+25-39,2016,Methicillin Resistant Staphylococcus Aureus,43,24.6,3,skin
+60+,2015,Methicillin Resistant Staphylococcus Aureus,414,168.2,3,skin
+All,2015,Methicillin Resistant Staphylococcus Aureus,625,66.3,3,skin
+0-4,2015,Methicillin Resistant Staphylococcus Aureus,15,34.8,3,skin
+25-39,2015,Methicillin Resistant Staphylococcus Aureus,45,26.1,3,skin
+60+,2016,Methicillin Resistant Staphylococcus Aureus,366,144.1,3,skin
+5 to 14,2015,Methicillin Resistant Staphylococcus Aureus,13,14.6,3,skin
+0-4,2016,Methicillin Resistant Staphylococcus Aureus,12,27.3,3,skin
+40-59,2015,Methicillin Resistant Staphylococcus Aureus,105,37.8,3,skin
+5 to 14,2016,Methicillin Resistant Staphylococcus Aureus,12,13.4,3,skin
+40-59,2016,Methicillin Resistant Staphylococcus Aureus,104,38,3,skin
+15-24,2015,Methicillin Resistant Staphylococcus Aureus,31,27,3,skin
+25-39,2017,Methicillin Resistant Staphylococcus Aureus,55,30.9,3,skin
+5 to 14,2017,Methicillin Resistant Staphylococcus Aureus,9,10,3,skin
+0-4,2017,Methicillin Resistant Staphylococcus Aureus,11,25.7,3,skin
+All,2017,Methicillin Resistant Staphylococcus Aureus,522,54.7,3,skin
+15-24,2017,Methicillin Resistant Staphylococcus Aureus,20,17.7,3,skin
+40-59,2017,Methicillin Resistant Staphylococcus Aureus,98,36.3,3,skin
+60+,2017,Methicillin Resistant Staphylococcus Aureus,328,126.2,3,skin
+0-4,2014,Mumps,0,0,2,throat
+5 to 14,2014,Mumps,0,0,2,throat
+15-24,2014,Mumps,1,0.9,2,throat
+25-39,2014,Mumps,0,0,2,throat
+40-59,2014,Mumps,0,0,2,throat
+60+,2014,Mumps,0,0,2,throat
+All,2014,Mumps,1,0.1,2,throat
+5 to 14,2015,Mumps,1,1.1,2,throat
+15-24,2016,Mumps,1,0.9,2,throat
+All,2015,Mumps,6,0.6,2,throat
+60+,2015,Mumps,0,0,2,throat
+25-39,2016,Mumps,0,0,2,throat
+25-39,2015,Mumps,1,0.6,2,throat
+60+,2016,Mumps,0,0,2,throat
+15-24,2015,Mumps,4,3.5,2,throat
+0-4,2016,Mumps,0,0,2,throat
+40-59,2015,Mumps,0,0,2,throat
+0-4,2015,Mumps,0,0,2,throat
+All,2016,Mumps,1,0.1,2,throat
+5 to 14,2016,Mumps,0,0,2,throat
+40-59,2016,Mumps,0,0,2,throat
+5 to 14,2017,Mumps,0,0,2,throat
+15-24,2017,Mumps,15,13.3,2,throat
+60+,2017,Mumps,0,0,2,throat
+All,2017,Mumps,21,2.2,2,throat
+0-4,2017,Mumps,0,0,2,throat
+25-39,2017,Mumps,5,2.8,2,throat
+40-59,2017,Mumps,1,0.4,2,throat
+0-4,2014,Pertussis,6,15.3,3,lung
+5 to 14,2014,Pertussis,0,0,3,lung
+15-24,2014,Pertussis,2,1.7,3,lung
+25-39,2014,Pertussis,0,0,3,lung
+40-59,2014,Pertussis,3,1.1,3,lung
+60+,2014,Pertussis,0,0,3,lung
+All,2014,Pertussis,11,1.2,3,lung
+5 to 14,2015,Pertussis,36,40.3,3,lung
+15-24,2015,Pertussis,16,13.9,3,lung
+40-59,2015,Pertussis,14,5,3,lung
+25-39,2016,Pertussis,9,5.2,3,lung
+All,2016,Pertussis,63,6.6,3,lung
+60+,2016,Pertussis,2,0.8,3,lung
+0-4,2016,Pertussis,19,45.3,3,lung
+60+,2015,Pertussis,1,0.4,3,lung
+All,2015,Pertussis,110,11.7,3,lung
+0-4,2015,Pertussis,31,71.9,3,lung
+40-59,2016,Pertussis,5,1.8,3,lung
+25-39,2015,Pertussis,12,7,3,lung
+5 to 14,2016,Pertussis,18,20.1,3,lung
+15-24,2016,Pertussis,10,8.8,3,lung
+5 to 14,2017,Pertussis,6,6.7,3,lung
+All,2017,Pertussis,45,4.7,3,lung
+0-4,2017,Pertussis,16,37.4,3,lung
+60+,2017,Pertussis,3,1.2,3,lung
+25-39,2017,Pertussis,8,4.5,3,lung
+40-59,2017,Pertussis,11,4.1,3,lung
+15-24,2017,Pertussis,1,0.9,3,lung
+0-4,2014,Pneumococcal Disease Invasive,0,0,3,lung
+5 to 14,2014,Pneumococcal Disease Invasive,0,0,3,lung
+15-24,2014,Pneumococcal Disease Invasive,2,1.7,3,lung
+25-39,2014,Pneumococcal Disease Invasive,5,2.9,3,lung
+40-59,2014,Pneumococcal Disease Invasive,24,8.5,3,lung
+60+,2014,Pneumococcal Disease Invasive,35,14.6,3,lung
+All,2014,Pneumococcal Disease Invasive,66,7,3,lung
+5 to 14,2016,Pneumococcal Disease Invasive,1,1.1,3,lung
+25-39,2016,Pneumococcal Disease Invasive,6,3.4,3,lung
+15-24,2016,Pneumococcal Disease Invasive,3,2.6,3,lung
+40-59,2015,Pneumococcal Disease Invasive,15,5.4,3,lung
+25-39,2015,Pneumococcal Disease Invasive,6,3.5,3,lung
+0-4,2016,Pneumococcal Disease Invasive,7,16,3,lung
+60+,2016,Pneumococcal Disease Invasive,21,8.3,3,lung
+All,2015,Pneumococcal Disease Invasive,52,5.5,3,lung
+60+,2015,Pneumococcal Disease Invasive,25,10.2,3,lung
+0-4,2015,Pneumococcal Disease Invasive,3,7,3,lung
+40-59,2016,Pneumococcal Disease Invasive,28,10.2,3,lung
+15-24,2015,Pneumococcal Disease Invasive,2,1.7,3,lung
+All,2016,Pneumococcal Disease Invasive,66,7,3,lung
+5 to 14,2015,Pneumococcal Disease Invasive,1,1.1,3,lung
+40-59,2017,Pneumococcal Disease Invasive,9,3.3,3,lung
+All,2017,Pneumococcal Disease Invasive,49,5.1,3,lung
+5 to 14,2017,Pneumococcal Disease Invasive,1,1.1,3,lung
+60+,2017,Pneumococcal Disease Invasive,35,13.5,3,lung
+25-39,2017,Pneumococcal Disease Invasive,1,0.6,3,lung
+0-4,2017,Pneumococcal Disease Invasive,3,7,3,lung
+15-24,2017,Pneumococcal Disease Invasive,0,0,3,lung
+25-39,2014,Q-Fever,0,0,1,throat
+40-59,2014,Q-Fever,0,0,1,throat
+0-4,2014,Q-Fever,0,0,1,throat
+5 to 14,2014,Q-Fever,0,0,1,throat
+15-24,2014,Q-Fever,0,0,1,throat
+60+,2014,Q-Fever,0,0,1,throat
+All,2014,Q-Fever,0,0,1,throat
+0-4,2014,Rubella,0,0,3,forehead
+5 to 14,2014,Rubella,0,0,3,forehead
+15-24,2014,Rubella,0,0,3,forehead
+25-39,2014,Rubella,0,0,3,forehead
+40-59,2014,Rubella,0,0,3,forehead
+60+,2014,Rubella,0,0,3,forehead
+All,2014,Rubella,0,0,3,forehead
+60+,2015,Rubella,0,0,3,forehead
+25-39,2015,Rubella,0,0,3,forehead
+0-4,2015,Rubella,0,0,3,forehead
+25-39,2016,Rubella,0,0,3,forehead
+All,2016,Rubella,0,0,3,forehead
+40-59,2015,Rubella,0,0,3,forehead
+5 to 14,2016,Rubella,0,0,3,forehead
+60+,2016,Rubella,0,0,3,forehead
+40-59,2016,Rubella,0,0,3,forehead
+15-24,2015,Rubella,0,0,3,forehead
+0-4,2016,Rubella,0,0,3,forehead
+All,2015,Rubella,0,0,3,forehead
+15-24,2016,Rubella,0,0,3,forehead
+5 to 14,2015,Rubella,0,0,3,forehead
+0-4,2014,Salmonellosis,16,40.7,3,intestine
+5 to 14,2014,Salmonellosis,17,19,3,intestine
+15-24,2014,Salmonellosis,20,17.1,3,intestine
+25-39,2014,Salmonellosis,32,18.6,3,intestine
+40-59,2014,Salmonellosis,64,22.7,3,intestine
+60+,2014,Salmonellosis,55,23,3,intestine
+All,2014,Salmonellosis,204,21.7,3,intestine
+40-59,2016,Salmonellosis,44,16.1,3,intestine
+0-4,2015,Salmonellosis,8,18.6,3,intestine
+60+,2016,Salmonellosis,41,16.1,3,intestine
+60+,2015,Salmonellosis,58,23.6,3,intestine
+5 to 14,2016,Salmonellosis,9,10,3,intestine
+25-39,2015,Salmonellosis,30,17.4,3,intestine
+40-59,2015,Salmonellosis,54,19.5,3,intestine
+15-24,2016,Salmonellosis,17,15,3,intestine
+5 to 14,2015,Salmonellosis,7,7.8,3,intestine
+15-24,2015,Salmonellosis,12,10.4,3,intestine
+All,2015,Salmonellosis,169,17.9,3,intestine
+0-4,2016,Salmonellosis,7,16,3,intestine
+25-39,2016,Salmonellosis,21,12,3,intestine
+All,2016,Salmonellosis,139,14.6,3,intestine
+25-39,2017,Salmonellosis,33,18.5,3,intestine
+All,2017,Salmonellosis,171,17.9,3,intestine
+5 to 14,2017,Salmonellosis,13,14.4,3,intestine
+15-24,2017,Salmonellosis,18,15.9,3,intestine
+60+,2017,Salmonellosis,50,19.2,3,intestine
+0-4,2017,Salmonellosis,13,30.4,3,intestine
+40-59,2017,Salmonellosis,44,16.3,3,intestine
+0-4,2014,Shellfish Poisoning,0,0,2,stomach
+5 to 14,2014,Shellfish Poisoning,0,0,2,stomach
+15-24,2014,Shellfish Poisoning,0,0,2,stomach
+25-39,2014,Shellfish Poisoning,0,0,2,stomach
+40-59,2014,Shellfish Poisoning,0,0,2,stomach
+60+,2014,Shellfish Poisoning,0,0,2,stomach
+All,2014,Shellfish Poisoning,0,0,2,stomach
+All,2015,Shellfish Poisoning,0,0,2,stomach
+15-24,2015,Shellfish Poisoning,0,0,2,stomach
+25-39,2015,Shellfish Poisoning,0,0,2,stomach
+All,2016,Shellfish Poisoning,0,0,2,stomach
+60+,2016,Shellfish Poisoning,0,0,2,stomach
+5 to 14,2015,Shellfish Poisoning,0,0,2,stomach
+15-24,2016,Shellfish Poisoning,0,0,2,stomach
+0-4,2016,Shellfish Poisoning,0,0,2,stomach
+40-59,2015,Shellfish Poisoning,0,0,2,stomach
+60+,2015,Shellfish Poisoning,0,0,2,stomach
+40-59,2016,Shellfish Poisoning,0,0,2,stomach
+5 to 14,2016,Shellfish Poisoning,0,0,2,stomach
+25-39,2016,Shellfish Poisoning,0,0,2,stomach
+0-4,2015,Shellfish Poisoning,0,0,2,stomach
+0-4,2014,Shigellosis,0,0,2,stomach
+5 to 14,2014,Shigellosis,0,0,2,stomach
+15-24,2014,Shigellosis,2,1.7,2,stomach
+25-39,2014,Shigellosis,2,1.2,2,stomach
+40-59,2014,Shigellosis,4,1.4,2,stomach
+60+,2014,Shigellosis,1,0.4,2,stomach
+All,2014,Shigellosis,9,1,2,stomach
+40-59,2015,Shigellosis,3,1.1,2,stomach
+25-39,2015,Shigellosis,1,0.6,2,stomach
+15-24,2015,Shigellosis,0,0,2,stomach
+15-24,2016,Shigellosis,1,0.9,2,stomach
+40-59,2016,Shigellosis,7,2.6,2,stomach
+All,2015,Shigellosis,5,0.5,2,stomach
+60+,2015,Shigellosis,1,0.4,2,stomach
+25-39,2016,Shigellosis,1,0.6,2,stomach
+5 to 14,2016,Shigellosis,0,0,2,stomach
+60+,2016,Shigellosis,0,0,2,stomach
+0-4,2015,Shigellosis,0,0,2,stomach
+5 to 14,2015,Shigellosis,0,0,2,stomach
+All,2016,Shigellosis,10,1.1,2,stomach
+0-4,2016,Shigellosis,1,2.3,2,stomach
+All,2017,Shigellosis,10,1,2,stomach
+25-39,2017,Shigellosis,3,1.7,2,stomach
+0-4,2017,Shigellosis,1,2.3,2,stomach
+60+,2017,Shigellosis,2,0.8,2,stomach
+5 to 14,2017,Shigellosis,0,0,2,stomach
+40-59,2017,Shigellosis,3,1.1,2,stomach
+15-24,2017,Shigellosis,0,0,2,stomach
+0-4,2014,Syphilis - Infectious,0,0,2,sexual
+5 to 14,2014,Syphilis - Infectious,0,0,2,sexual
+15-24,2014,Syphilis - Infectious,19,16.2,2,sexual
+25-39,2014,Syphilis - Infectious,27,15.7,2,sexual
+40-59,2014,Syphilis - Infectious,15,5.3,2,sexual
+60+,2014,Syphilis - Infectious,2,0.8,2,sexual
+All,2014,Syphilis - Infectious,63,6.7,2,sexual
+40-59,2015,Syphilis - Infectious,9,3.2,2,sexual
+40-59,2016,Syphilis - Infectious,4,1.5,2,sexual
+25-39,2016,Syphilis - Infectious,10,5.7,2,sexual
+25-39,2015,Syphilis - Infectious,16,9.3,2,sexual
+15-24,2015,Syphilis - Infectious,18,15.7,2,sexual
+All,2016,Syphilis - Infectious,18,1.9,2,sexual
+60+,2015,Syphilis - Infectious,0,0,2,sexual
+0-4,2016,Syphilis - Infectious,0,0,2,sexual
+All,2015,Syphilis - Infectious,43,4.6,2,sexual
+0-4,2015,Syphilis - Infectious,0,0,2,sexual
+5 to 14,2016,Syphilis - Infectious,0,0,2,sexual
+60+,2016,Syphilis - Infectious,1,0.4,2,sexual
+5 to 14,2015,Syphilis - Infectious,0,0,2,sexual
+15-24,2016,Syphilis - Infectious,3,2.6,2,sexual
+40-59,2017,Syphilis - Infectious,8,3,2,sexual
+All,2017,Syphilis - Infectious,26,2.7,2,sexual
+5 to 14,2017,Syphilis - Infectious,0,0,2,sexual
+60+,2017,Syphilis - Infectious,2,0.8,2,sexual
+15-24,2017,Syphilis - Infectious,3,2.7,2,sexual
+0-4,2017,Syphilis - Infectious,0,0,2,sexual
+25-39,2017,Syphilis - Infectious,13,7.3,2,sexual
+0-4,2014,Syphilis - Non-Infectious or Stage Pending,0,0,1,sexual
+5 to 14,2014,Syphilis - Non-Infectious or Stage Pending,0,0,1,sexual
+15-24,2014,Syphilis - Non-Infectious or Stage Pending,6,5.1,1,sexual
+25-39,2014,Syphilis - Non-Infectious or Stage Pending,14,8.2,1,sexual
+40-59,2014,Syphilis - Non-Infectious or Stage Pending,13,4.6,1,sexual
+60+,2014,Syphilis - Non-Infectious or Stage Pending,4,1.7,1,sexual
+All,2014,Syphilis - Non-Infectious or Stage Pending,37,3.9,1,sexual
+25-39,2016,Syphilis - Non-Infectious or Stage Pending,5,2.9,1,sexual
+15-24,2016,Syphilis - Non-Infectious or Stage Pending,2,1.8,1,sexual
+All,2016,Syphilis - Non-Infectious or Stage Pending,17,1.8,1,sexual
+0-4,2016,Syphilis - Non-Infectious or Stage Pending,0,0,1,sexual
+60+,2015,Syphilis - Non-Infectious or Stage Pending,5,2,1,sexual
+5 to 14,2015,Syphilis - Non-Infectious or Stage Pending,0,0,1,sexual
+25-39,2015,Syphilis - Non-Infectious or Stage Pending,12,7,1,sexual
+All,2015,Syphilis - Non-Infectious or Stage Pending,28,3,1,sexual
+15-24,2015,Syphilis - Non-Infectious or Stage Pending,4,3.5,1,sexual
+60+,2016,Syphilis - Non-Infectious or Stage Pending,3,1.2,1,sexual
+40-59,2015,Syphilis - Non-Infectious or Stage Pending,5,1.8,1,sexual
+40-59,2016,Syphilis - Non-Infectious or Stage Pending,7,2.6,1,sexual
+0-4,2015,Syphilis - Non-Infectious or Stage Pending,2,4.6,1,sexual
+5 to 14,2016,Syphilis - Non-Infectious or Stage Pending,0,0,1,sexual
+15-24,2017,Syphilis - Non-Infectious or Stage Pending,1,0.9,1,sexual
+All,2017,Syphilis - Non-Infectious or Stage Pending,12,1.3,1,sexual
+0-4,2017,Syphilis - Non-Infectious or Stage Pending,0,0,1,sexual
+60+,2017,Syphilis - Non-Infectious or Stage Pending,3,1.2,1,sexual
+25-39,2017,Syphilis - Non-Infectious or Stage Pending,4,2.2,1,sexual
+5 to 14,2017,Syphilis - Non-Infectious or Stage Pending,0,0,1,sexual
+40-59,2017,Syphilis - Non-Infectious or Stage Pending,4,1.5,1,sexual
+0-4,2014,Tetanus,0,0,2,throat
+5 to 14,2014,Tetanus,0,0,2,throat
+15-24,2014,Tetanus,0,0,2,throat
+25-39,2014,Tetanus,0,0,2,throat
+40-59,2014,Tetanus,0,0,2,throat
+60+,2014,Tetanus,0,0,2,throat
+All,2014,Tetanus,0,0,2,throat
+40-59,2016,Tetanus,0,0,2,throat
+40-59,2015,Tetanus,0,0,2,throat
+5 to 14,2016,Tetanus,0,0,2,throat
+15-24,2015,Tetanus,0,0,2,throat
+0-4,2015,Tetanus,0,0,2,throat
+All,2015,Tetanus,0,0,2,throat
+0-4,2016,Tetanus,0,0,2,throat
+5 to 14,2015,Tetanus,0,0,2,throat
+60+,2016,Tetanus,0,0,2,throat
+25-39,2015,Tetanus,0,0,2,throat
+25-39,2016,Tetanus,0,0,2,throat
+15-24,2016,Tetanus,0,0,2,throat
+60+,2015,Tetanus,0,0,2,throat
+All,2016,Tetanus,0,0,2,throat
+5 to 14,2017,Tetanus,0,0,2,throat
+15-24,2017,Tetanus,0,0,2,throat
+25-39,2017,Tetanus,0,0,2,throat
+0-4,2017,Tetanus,0,0,2,throat
+All,2017,Tetanus,0,0,2,throat
+60+,2017,Tetanus,0,0,2,throat
+40-59,2017,Tetanus,0,0,2,throat
+0-4,2014,Toxoplasmosis,0,0,2,throat
+5 to 14,2014,Toxoplasmosis,0,0,2,throat
+15-24,2014,Toxoplasmosis,1,0.9,2,throat
+25-39,2014,Toxoplasmosis,1,0.6,2,throat
+40-59,2014,Toxoplasmosis,0,0,2,throat
+60+,2014,Toxoplasmosis,1,0.4,2,throat
+All,2014,Toxoplasmosis,3,0.3,2,throat
+0-4,2014,Tuberculosis,0,0,3,lung
+5 to 14,2014,Tuberculosis,0,0,3,lung
+15-24,2014,Tuberculosis,1,0.9,3,lung
+25-39,2014,Tuberculosis,5,2.9,3,lung
+40-59,2014,Tuberculosis,1,0.4,3,lung
+60+,2014,Tuberculosis,0,0,3,lung
+All,2014,Tuberculosis,7,0.7,3,lung
+25-39,2015,Tuberculosis,3,1.7,3,lung
+0-4,2016,Tuberculosis,0,0,3,lung
+5 to 14,2015,Tuberculosis,0,0,3,lung
+25-39,2016,Tuberculosis,1,0.6,3,lung
+15-24,2016,Tuberculosis,1,0.9,3,lung
+60+,2016,Tuberculosis,0,0,3,lung
+60+,2015,Tuberculosis,1,0.4,3,lung
+40-59,2015,Tuberculosis,1,0.4,3,lung
+5 to 14,2016,Tuberculosis,0,0,3,lung
+0-4,2015,Tuberculosis,0,0,3,lung
+All,2015,Tuberculosis,6,0.6,3,lung
+40-59,2016,Tuberculosis,0,0,3,lung
+All,2016,Tuberculosis,2,0.2,3,lung
+15-24,2015,Tuberculosis,1,0.9,3,lung
+15-24,2017,Tuberculosis,3,2.7,3,lung
+All,2017,Tuberculosis,8,0.8,3,lung
+5 to 14,2017,Tuberculosis,0,0,3,lung
+25-39,2017,Tuberculosis,3,1.7,3,lung
+0-4,2017,Tuberculosis,0,0,3,lung
+40-59,2017,Tuberculosis,0,0,3,lung
+60+,2017,Tuberculosis,2,0.8,3,lung
+0-4,2014,Typhoid,0,0,2,intestine
+5 to 14,2014,Typhoid,1,1.1,2,intestine
+15-24,2014,Typhoid,0,0,2,intestine
+25-39,2014,Typhoid,0,0,2,intestine
+40-59,2014,Typhoid,0,0,2,intestine
+60+,2014,Typhoid,1,0.4,2,intestine
+All,2014,Typhoid,2,0.2,2,intestine
+15-24,2015,Typhoid,0,0,2,intestine
+All,2016,Typhoid,1,0.1,2,intestine
+60+,2016,Typhoid,1,0.4,2,intestine
+40-59,2015,Typhoid,0,0,2,intestine
+60+,2015,Typhoid,0,0,2,intestine
+0-4,2015,Typhoid,0,0,2,intestine
+25-39,2016,Typhoid,0,0,2,intestine
+5 to 14,2015,Typhoid,0,0,2,intestine
+5 to 14,2016,Typhoid,0,0,2,intestine
+All,2015,Typhoid,0,0,2,intestine
+25-39,2015,Typhoid,0,0,2,intestine
+0-4,2016,Typhoid,0,0,2,intestine
+15-24,2016,Typhoid,0,0,2,intestine
+40-59,2016,Typhoid,0,0,2,intestine
+25-39,2017,Typhoid,1,0.6,2,intestine
+All,2017,Typhoid,2,0.2,2,intestine
+0-4,2017,Typhoid,0,0,2,intestine
+40-59,2017,Typhoid,1,0.4,2,intestine
+60+,2017,Typhoid,0,0,2,intestine
+5 to 14,2017,Typhoid,0,0,2,intestine
+15-24,2017,Typhoid,0,0,2,intestine
+0-4,2014,Vancomycin Resistant Enterococcus,0,0,3,immuno
+5 to 14,2014,Vancomycin Resistant Enterococcus,0,0,3,immuno
+15-24,2014,Vancomycin Resistant Enterococcus,0,0,3,immuno
+25-39,2014,Vancomycin Resistant Enterococcus,1,0.6,3,immuno
+40-59,2014,Vancomycin Resistant Enterococcus,5,1.8,3,immuno
+60+,2014,Vancomycin Resistant Enterococcus,11,4.6,3,immuno
+All,2014,Vancomycin Resistant Enterococcus,17,1.8,3,immuno
+All,2016,Vancomycin Resistant Enterococcus,13,1.4,3,immuno
+25-39,2016,Vancomycin Resistant Enterococcus,0,0,3,immuno
+60+,2015,Vancomycin Resistant Enterococcus,4,1.6,3,immuno
+25-39,2015,Vancomycin Resistant Enterococcus,0,0,3,immuno
+0-4,2015,Vancomycin Resistant Enterococcus,0,0,3,immuno
+60+,2016,Vancomycin Resistant Enterococcus,11,4.3,3,immuno
+40-59,2015,Vancomycin Resistant Enterococcus,0,0,3,immuno
+5 to 14,2016,Vancomycin Resistant Enterococcus,0,0,3,immuno
+15-24,2016,Vancomycin Resistant Enterococcus,0,0,3,immuno
+15-24,2015,Vancomycin Resistant Enterococcus,0,0,3,immuno
+0-4,2016,Vancomycin Resistant Enterococcus,0,0,3,immuno
+40-59,2016,Vancomycin Resistant Enterococcus,2,0.7,3,immuno
+All,2015,Vancomycin Resistant Enterococcus,4,0.4,3,immuno
+5 to 14,2015,Vancomycin Resistant Enterococcus,0,0,3,immuno
+0-4,2017,Vancomycin Resistant Enterococcus,0,0,3,immuno
+60+,2017,Vancomycin Resistant Enterococcus,94,36.2,3,immuno
+15-24,2017,Vancomycin Resistant Enterococcus,1,0.9,3,immuno
+5 to 14,2017,Vancomycin Resistant Enterococcus,0,0,3,immuno
+All,2017,Vancomycin Resistant Enterococcus,121,12.7,3,immuno
+40-59,2017,Vancomycin Resistant Enterococcus,20,7.4,3,immuno
+25-39,2017,Vancomycin Resistant Enterococcus,6,3.4,3,immuno
+0-4,2014,Verotoxigenic E.coli,0,0,1,intestine
+5 to 14,2014,Verotoxigenic E.coli,0,0,1,intestine
+15-24,2014,Verotoxigenic E.coli,0,0,1,intestine
+25-39,2014,Verotoxigenic E.coli,0,0,1,intestine
+40-59,2014,Verotoxigenic E.coli,1,0.4,1,intestine
+60+,2014,Verotoxigenic E.coli,1,0.4,1,intestine
+All,2014,Verotoxigenic E.coli,2,0.2,1,intestine
+5 to 14,2015,Verotoxigenic E.coli,0,0,1,intestine
+25-39,2015,Verotoxigenic E.coli,2,1.2,1,intestine
+All,2016,Verotoxigenic E.coli,5,0.5,1,intestine
+0-4,2016,Verotoxigenic E.coli,2,4.6,1,intestine
+15-24,2016,Verotoxigenic E.coli,1,0.9,1,intestine
+5 to 14,2016,Verotoxigenic E.coli,2,2.2,1,intestine
+All,2015,Verotoxigenic E.coli,5,0.5,1,intestine
+0-4,2015,Verotoxigenic E.coli,2,4.6,1,intestine
+15-24,2015,Verotoxigenic E.coli,1,0.9,1,intestine
+60+,2015,Verotoxigenic E.coli,0,0,1,intestine
+60+,2016,Verotoxigenic E.coli,0,0,1,intestine
+40-59,2016,Verotoxigenic E.coli,0,0,1,intestine
+25-39,2016,Verotoxigenic E.coli,0,0,1,intestine
+40-59,2015,Verotoxigenic E.coli,0,0,1,intestine
+All,2017,Verotoxigenic E.coli,21,2.2,1,intestine
+15-24,2017,Verotoxigenic E.coli,5,4.4,1,intestine
+0-4,2017,Verotoxigenic E.coli,5,11.7,1,intestine
+40-59,2017,Verotoxigenic E.coli,1,0.4,1,intestine
+60+,2017,Verotoxigenic E.coli,1,0.4,1,intestine
+25-39,2017,Verotoxigenic E.coli,5,2.8,1,intestine
+5 to 14,2017,Verotoxigenic E.coli,4,4.4,1,intestine
+0-4,2014,West Nile Virus,0,0,1,forehead
+5 to 14,2014,West Nile Virus,0,0,1,forehead
+15-24,2014,West Nile Virus,0,0,1,forehead
+25-39,2014,West Nile Virus,0,0,1,forehead
+40-59,2014,West Nile Virus,0,0,1,forehead
+60+,2014,West Nile Virus,0,0,1,forehead
+All,2014,West Nile Virus,0,0,1,forehead
+All,2016,West Nile Virus,0,0,1,forehead
+25-39,2016,West Nile Virus,0,0,1,forehead
+0-4,2016,West Nile Virus,0,0,1,forehead
+5 to 14,2016,West Nile Virus,0,0,1,forehead
+60+,2015,West Nile Virus,0,0,1,forehead
+60+,2016,West Nile Virus,0,0,1,forehead
+15-24,2015,West Nile Virus,0,0,1,forehead
+5 to 14,2015,West Nile Virus,0,0,1,forehead
+40-59,2016,West Nile Virus,0,0,1,forehead
+25-39,2015,West Nile Virus,0,0,1,forehead
+All,2015,West Nile Virus,0,0,1,forehead
+0-4,2015,West Nile Virus,0,0,1,forehead
+15-24,2016,West Nile Virus,0,0,1,forehead
+40-59,2015,West Nile Virus,0,0,1,forehead
+25-39,2017,West Nile Virus,0,0,1,forehead
+40-59,2017,West Nile Virus,0,0,1,forehead
+15-24,2017,West Nile Virus,0,0,1,forehead
+60+,2017,West Nile Virus,0,0,1,forehead
+0-4,2017,West Nile Virus,0,0,1,forehead
+5 to 14,2017,West Nile Virus,0,0,1,forehead
+All,2017,West Nile Virus,0,0,1,forehead
+0-4,2014,Yersiniosis,0,0,1,forehead
+5 to 14,2014,Yersiniosis,0,0,2,stomach
+15-24,2014,Yersiniosis,0,0,2,stomach
+25-39,2014,Yersiniosis,0,0,2,stomach
+40-59,2014,Yersiniosis,1,0.4,2,stomach
+60+,2014,Yersiniosis,1,0.4,2,stomach
+All,2014,Yersiniosis,2,0.2,2,stomach
